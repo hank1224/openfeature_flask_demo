@@ -1,0 +1,4 @@
+flask
+flagsmith
+openfeature-sdk
+openfeature-provider-flagsmith
